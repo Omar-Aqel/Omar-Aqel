@@ -13,7 +13,7 @@ I build things across the stack, from low-level systems in C to full-stack web a
 
 ## 🚀 Featured Projects
 
-### 🧠 [AI Cluster Scheduler](https://github.com/MohammadTbakhy/AI-Cluster-Scheduler)
+### 🧠 AI Cluster Scheduler 🔒
 *Graduation project · Python · Reinforcement Learning · pytest · 2026 – present*
 
 A Python simulator of a heterogeneous CPU/GPU cluster, modeled as a Markov decision process and driven by real job traces from the college's computing cluster. Built in a two-person team under academic supervision.
@@ -21,6 +21,8 @@ A Python simulator of a heterogeneous CPU/GPU cluster, modeled as a Markov decis
 - Evaluation pipeline across multiple random seeds, reporting makespan, waiting time and slowdown with 95% confidence intervals
 - Automated tests with pytest
 - Next phase: a deep RL agent (Deep Q-Learning, PUCT) benchmarked against the baselines
+
+> The repository is private for now (graduation project). Code and a demo are available on request.
 
 ### 🤝 [Mitchabrim: Non-Profit Web Platform](https://github.com/jce-kehila-2026/kehila2026-Mitchabrim) · [Live site](https://mitchabrim-jce2026.web.app/)
 *React · JavaScript · Firebase · Jan – Jul 2026*
