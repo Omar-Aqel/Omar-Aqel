@@ -3,7 +3,7 @@
 **Final-year Software Engineering student** at Azrieli College of Engineering, Jerusalem (JCE), graduating in 2027.
 I build things across the stack, from low-level systems in C to full-stack web apps in React and Firebase, and I'm currently working on a reinforcement-learning scheduler for heterogeneous computing clusters as my graduation project.
 
-- 🎓 B.Sc. Software Engineering, JCE (2024 – 2027) · GPA 80.71 / 100
+- 🎓 B.Sc. Software Engineering, JCE (2024 – 2027) · 
 - 🔭 Working on: **AI Cluster Scheduler**, my graduation project (Python, RL)
 - 📚 Currently studying: Parallel & Distributed Computing
 - 🌍 Languages: Arabic (native), Hebrew (fluent), English (professional)
